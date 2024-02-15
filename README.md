@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @piyush23dixit
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Web-Development
-- 💞️ I’m looking to collaborate @vivekkumarava1
+- 🌱 I’m currently learning Java, kotlin and android development
 - 📫 How to reach me Just drop a message on :- dixitpiyush23@gmail.com
 
 <!---
